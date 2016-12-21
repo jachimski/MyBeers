@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="btn_about">A Propos</string>
+    <string name="btn_barman">Appeler Serveur</string>
+    <string name="btn_mybiers">Ma Bière</string>
+    <string name="btn_play">Jouer</string>
+    <string name="text_barman1">Patientez ! Je suis à vous dans 2min !</string>
+    <string name="text_barman2">Un serveur sera là pour vous dans 2 minutes</string>
+    <string name="text_play2">Merci d\'indiquer vos coordonnées bancaires</string>
+    <string name="text_play1">Contribuez à l\'amélioration de l\'application en nous soutenant par donation</string>
+    <string name="card_crypto">Cryptographe</string>
+    <string name="card_expi">Date d\'Expiration</string>
+    <string name="card_num">Numéro de Carte</string>
+    <string name="card_owner">Propriétaire de La Carte</string>
+    <string name="card_register">Enregistrer</string>
+    <string name="toast_hit">TU SAIS PAS LIRE OU QUOI ????!!!!</string>
+    <string name="btn_toast">SVP NE ME FAITES PAS DE MAL !</string>
+    <string name="btn_wn">Pourquoi Pas</string>
+    <string name="date">Calendrier</string>
+    <string name="web">Internet</string>
+    <string name="rv_acces">Liste de Bières</string>
+    <string name="TV_whynot">Voici d\'autres fonctionnalités qui n\'ont absolument rien à voir avec l\'application !</string>
+    <string name="notif_play">Carte de Credit enregistrée</string>
+    <string name="dialog_box">J\'arrive garçon !</string>
+    <string name="dialog_cancel">Annulation</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_sure">Voulez-vous vraiment l\'appeler ?</string>
+    <string name="TV_mybiers">Prenez une photo de votre bière !</string>
+    <string name="custom">Voici un liste de bières</string>
+    <string name="btn_dialog">Appel d\'Urgence</string>
+    <string name="TV_about">Cette application présente une liste exhaustive des bières existantes</string>
+
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.esiea.jachimski.mybeers.MainActivity"
+    android:weightSum="1">
+
+    <include
+        android:id="@+id/my_toolbar"
+        layout="@layout/activity_actionbar" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_wn"
+        android:textColor="#FFFFFF"
+
+        android:background="@color/colorAccent"
+        android:id="@+id/btn_wn"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_barman"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_barman"
+        android:textColor="#FFFFFF"
+
+        android:clickable="false"
+
+        android:background="@color/colorAccent"
+        android:id="@+id/btn_barman"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_play"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_mybiers"
+        android:textColor="#FFFFFF"
+
+        android:background="@color/colorAccent"
+        android:id="@+id/btn_mybiers"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_rv"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_play"
+        android:textColor="#FFFFFF"
+
+        android:background="@color/colorAccent"
+        android:id="@+id/btn_play"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_mybiers"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_about"
+        android:textColor="#FFFFFF"
+
+        android:background="@color/colorAccent"
+        android:id="@+id/btn_about"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_wn"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rv_acces"
+        android:textColor="#FFFFFF"
+
+        android:background="@color/colorAccent"
+        android:id="@+id/btn_rv"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+
+        android:layout_below="@+id/my_toolbar"
+        android:layout_weight="1"/>
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">MyBeers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_play">Play</string>
+    <string name="btn_mybiers">My Beer</string>
+    <string name="btn_barman">Call Barman</string>
+    <string name="btn_about">About Us</string>
+    <string name="btn_wn">Why Not</string>
+
+    <string name="text_barman1">Wait Me ! I\'m here in 2min !</string>
+    <string name="text_barman2">A barman will be here for you in 2 minutes</string>
+
+    <string name="text_play1">Contribute to the evolution of the application by donate</string>
+    <string name="text_play2">Please enter your Credit Card ID :</string>
+
+    <string name="card_owner">Credit Card Owner</string>
+    <string name="card_num">Card Number</string>
+    <string name="card_expi">Date of Expiration</string>
+    <string name="card_crypto">Cryptographe</string>
+    <string name="card_register">Register</string>
+
+    <string name="toast_hit">CAN\'T YOU READ !!!</string>
+    <string name="btn_toast">PLEASE DON\'T HIT ME !</string>
+    <string name="date">Diary</string>
+    <string name="web">Reach Internet</string>
+    <string name="rv_acces">Beers List</string>
+    <string name="TV_whynot">These are some fonctionnalities that have nothing to see with the rest of the application</string>
+    <string name="notif_play">Credit Card Save</string>
+
+    <string name="dialog_box">I\'m on my way !</string>
+    <string name="dialog_cancel">Cancellation</string>
+    <string name="dialog_ok">Validation</string>
+    <string name="dialog_sure">Do you really want to call him ?</string>
+    <string name="TV_mybiers">Take a Photo of your beer !</string>
+    <string name="custom">Here a list of beer :</string>
+    <string name="btn_dialog">Urgent Call</string>
+    <string name="TV_about">This Application is a list of biers existing in the entire world</string>
+</resources>
